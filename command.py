@@ -1,0 +1,1 @@
+streamlit run monte_carlo_streamlit.py
